@@ -51,18 +51,18 @@
 /* Begin PBXFileReference section */
 		0460747E66BE6B078645EE335D7A405A /* Pods-IMGLYColorPicker_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-IMGLYColorPicker_Example-umbrella.h"; sourceTree = "<group>"; };
 		09AA6A6F87CB64C05B9E33B1E0B5DC15 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0D826272976DC9A930609476C1A08971 /* transparent_color_pattern@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; path = "transparent_color_pattern@2x.png"; sourceTree = "<group>"; };
+		0D826272976DC9A930609476C1A08971 /* transparent_color_pattern@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "transparent_color_pattern@2x.png"; sourceTree = "<group>"; };
 		12F9AFB8DCCCD2CF2473289D932B7395 /* IMGLYColorPicker.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = IMGLYColorPicker.xcconfig; sourceTree = "<group>"; };
 		1692EBFFFD8C964F3DA2832B3D4FC2D1 /* CGColorSpaceExtension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CGColorSpaceExtension.swift; sourceTree = "<group>"; };
-		1BFAB4FB09DD7F91C0AB0092D228F690 /* IMGLYColorPicker.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = IMGLYColorPicker.bundle; path = IMGLYColorPicker.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		1BFAB4FB09DD7F91C0AB0092D228F690 /* IMGLYColorPicker.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IMGLYColorPicker.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		261E4AC5CBBA8F84A9E883C2C15B28F5 /* Pods-IMGLYColorPicker_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-IMGLYColorPicker_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		340AFD2014365D45F73334CC695129EA /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		343F012744D50EDA32CC8B7421F82834 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ReplaceMe.swift; sourceTree = "<group>"; };
-		3FFBE7D67B88EA647D6F692C453C9B4F /* Pods-IMGLYColorPicker_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-IMGLYColorPicker_Example.modulemap"; sourceTree = "<group>"; };
-		458CA3809AA04B52B8713A37D08628D8 /* Pods_IMGLYColorPicker_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_IMGLYColorPicker_Example.framework; path = "Pods-IMGLYColorPicker_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3FFBE7D67B88EA647D6F692C453C9B4F /* Pods-IMGLYColorPicker_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-IMGLYColorPicker_Example.modulemap"; sourceTree = "<group>"; };
+		458CA3809AA04B52B8713A37D08628D8 /* Pods_IMGLYColorPicker_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_IMGLYColorPicker_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D9AD02E9CEE9B012A246B3874CF4587 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/CoreGraphics.framework; sourceTree = DEVELOPER_DIR; };
 		5C7A076C1D65CD3AB172B47799D98A8B /* ColorValues.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ColorValues.swift; sourceTree = "<group>"; };
-		64EA1DBB219B8F0CACE07A4D2D210C39 /* transparent_color_pattern@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; path = "transparent_color_pattern@3x.png"; sourceTree = "<group>"; };
+		64EA1DBB219B8F0CACE07A4D2D210C39 /* transparent_color_pattern@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "transparent_color_pattern@3x.png"; sourceTree = "<group>"; };
 		6910413476D8F190EE0BF5502B3E8B9A /* Pods-IMGLYColorPicker_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-IMGLYColorPicker_Example-resources.sh"; sourceTree = "<group>"; };
 		695DA86B20FEA7BF7EA40FA7DB65A479 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
 		6984C9E7384A6B17F0C9DCB745A63ED1 /* IMGLYColorPicker-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "IMGLYColorPicker-dummy.m"; sourceTree = "<group>"; };
@@ -70,20 +70,20 @@
 		792165F2CA033667D6F57205316D40A1 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		7BB87DBD00A760431020D72C623DFFF3 /* SaturationBrightnessPickerView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = SaturationBrightnessPickerView.swift; sourceTree = "<group>"; };
 		83244B3C4D166460F7C64238C607DF42 /* HuePickerView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = HuePickerView.swift; sourceTree = "<group>"; };
-		84D5AC657004CE924B9BE86A8116BA7A /* IMGLYColorPicker.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = IMGLYColorPicker.framework; path = IMGLYColorPicker.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		84D5AC657004CE924B9BE86A8116BA7A /* IMGLYColorPicker.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = IMGLYColorPicker.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E52E9AC4158D9E91A2DB04B95834430 /* Pods-IMGLYColorPicker_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-IMGLYColorPicker_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		98AC51F89C6B41974245E514E482AF27 /* Pods-IMGLYColorPicker_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-IMGLYColorPicker_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		9B37944EDF13CF3F92A24B0641768D7C /* Pods-IMGLYColorPicker_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-IMGLYColorPicker_Example.release.xcconfig"; sourceTree = "<group>"; };
 		9CE38B056B82B02254DFE3E0186FFF94 /* Pods-IMGLYColorPicker_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-IMGLYColorPicker_Example-frameworks.sh"; sourceTree = "<group>"; };
 		A049A4A1FC7787603733844187752C59 /* ResourceBundle-IMGLYColorPicker-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-IMGLYColorPicker-Info.plist"; sourceTree = "<group>"; };
 		B0B86A73C0EFC901FA1804449D4736F7 /* PickerView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = PickerView.swift; sourceTree = "<group>"; };
 		B8F5097B899632E2ECD79EC0CB4CFEA5 /* AlphaPickerView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = AlphaPickerView.swift; sourceTree = "<group>"; };
-		D9532D644CD57E0578262B7A3A0AB1FD /* IMGLYColorPicker.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = IMGLYColorPicker.modulemap; sourceTree = "<group>"; };
+		D9532D644CD57E0578262B7A3A0AB1FD /* IMGLYColorPicker.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = IMGLYColorPicker.modulemap; sourceTree = "<group>"; };
 		DDC3B47D53F14B690F82D24BEF46CCE5 /* IMGLYColorPicker-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "IMGLYColorPicker-prefix.pch"; sourceTree = "<group>"; };
 		F37E7814287F3524F60AE1F4C581779F /* IMGLYColorPicker-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "IMGLYColorPicker-umbrella.h"; sourceTree = "<group>"; };
 		F4CDC642D19549A2F9C2F1DF7297DAE1 /* Pods-IMGLYColorPicker_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-IMGLYColorPicker_Example-dummy.m"; sourceTree = "<group>"; };
-		F7C2B590FC02CB78B895AF804A2F50C2 /* transparent_color_pattern.png */ = {isa = PBXFileReference; includeInIndex = 1; path = transparent_color_pattern.png; sourceTree = "<group>"; };
+		F7C2B590FC02CB78B895AF804A2F50C2 /* transparent_color_pattern.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = transparent_color_pattern.png; sourceTree = "<group>"; };
 		FAAC959A05CEAFA6A06687140FA17422 /* ColorPickerView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ColorPickerView.swift; sourceTree = "<group>"; };
 		FBD9F02BF85DBEB38403ECDF9DCC09D1 /* CGContextExtension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CGContextExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -161,7 +161,6 @@
 				0D826272976DC9A930609476C1A08971 /* transparent_color_pattern@2x.png */,
 				64EA1DBB219B8F0CACE07A4D2D210C39 /* transparent_color_pattern@3x.png */,
 			);
-			name = Assets;
 			path = Assets;
 			sourceTree = "<group>";
 		};
@@ -179,7 +178,6 @@
 				7BB87DBD00A760431020D72C623DFFF3 /* SaturationBrightnessPickerView.swift */,
 				7380DC6FA4280A2151B8DFBCB2ADD607 /* UIColorExtension.swift */,
 			);
-			name = Classes;
 			path = Classes;
 			sourceTree = "<group>";
 		};
@@ -196,7 +194,6 @@
 			children = (
 				96A3682E239E4EB057F54BB1181A8EFE /* Classes */,
 			);
-			name = IMGLYColorPicker;
 			path = IMGLYColorPicker;
 			sourceTree = "<group>";
 		};
@@ -223,7 +220,6 @@
 			children = (
 				92FFC39B509A80CD44964B41E65856BD /* Assets */,
 			);
-			name = IMGLYColorPicker;
 			path = IMGLYColorPicker;
 			sourceTree = "<group>";
 		};
@@ -354,7 +350,12 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0730;
-				LastUpgradeCheck = 0700;
+				LastUpgradeCheck = 0930;
+				TargetAttributes = {
+					3B9535CC60FD2023A9AA15FA9A1647FB = {
+						LastSwiftMigration = 0930;
+					};
+				};
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -473,7 +474,8 @@
 				PRODUCT_NAME = IMGLYColorPicker;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -489,20 +491,32 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CODE_SIGNING_REQUIRED = NO;
 				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"POD_CONFIGURATION_DEBUG=1",
@@ -550,7 +564,8 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -561,6 +576,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 9B37944EDF13CF3F92A24B0641768D7C /* Pods-IMGLYColorPicker_Example.release.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -618,19 +634,31 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CODE_SIGNING_REQUIRED = NO;
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"POD_CONFIGURATION_RELEASE=1",
 					"$(inherited)",
@@ -644,6 +672,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
 				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_COMPILATION_MODE = wholemodule;
 				SYMROOT = "${SRCROOT}/../build";
 				VALIDATE_PRODUCT = YES;
 			};
@@ -670,6 +699,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 8E52E9AC4158D9E91A2DB04B95834430 /* Pods-IMGLYColorPicker_Example.debug.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";

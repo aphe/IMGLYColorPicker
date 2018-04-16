@@ -82,7 +82,7 @@ import UIKit
     private func commonInit() {
         configureHuePickerView()
         configureSaturationBrightnessPickerView()
-        configureAlphaPickerView()
+//        configureAlphaPickerView()
         configureConstraints()
     }
 
@@ -117,8 +117,9 @@ import UIKit
 
         constraints.append(contentsOf: NSLayoutConstraint.constraints(withVisualFormat: "V:|-20-[saturationBrightnessPickerView]-20-|", options: [], metrics: nil, views: views))
         constraints.append(contentsOf: NSLayoutConstraint.constraints(withVisualFormat: "V:|-20-[huePickerView(==saturationBrightnessPickerView)]-20-|", options: [], metrics: nil, views: views))
-        constraints.append(contentsOf: NSLayoutConstraint.constraints(withVisualFormat: "V:|-20-[alphaPickerView(==saturationBrightnessPickerView)]-20-|", options: [], metrics: nil, views: views))
-        constraints.append(contentsOf: NSLayoutConstraint.constraints(withVisualFormat: "|-12-[huePickerView(20)]-12-[saturationBrightnessPickerView]-12-[alphaPickerView(20)]-12-|", options: [], metrics: nil, views: views))
+//        constraints.append(contentsOf: NSLayoutConstraint.constraints(withVisualFormat: "V:|-20-[alphaPickerView(==saturationBrightnessPickerView)]-20-|", options: [], metrics: nil, views: views))
+//        constraints.append(contentsOf: NSLayoutConstraint.constraints(withVisualFormat: "|-12-[huePickerView(20)]-12-[saturationBrightnessPickerView]-12-[alphaPickerView(20)]-12-|", options: [], metrics: nil, views: views))
+        constraints.append(contentsOf: NSLayoutConstraint.constraints(withVisualFormat: "|-12-[huePickerView(20)]-12-[saturationBrightnessPickerView]-12-|", options: [], metrics: nil, views: views))
 
         NSLayoutConstraint.activate(constraints)
     }
